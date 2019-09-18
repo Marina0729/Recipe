@@ -3,10 +3,3 @@ coriander
 tomato
 satlt
 Coriander
-tomato
-pepper
-Garlic
-Tumeric
-chicken salt
-cumin
-Coriander
