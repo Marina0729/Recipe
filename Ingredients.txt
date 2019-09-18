@@ -9,3 +9,4 @@ Garlic
 Tumeric
 chicken salt
 cumin
+Coriander
