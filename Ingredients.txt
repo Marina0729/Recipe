@@ -7,3 +7,5 @@ tomato
 pepper
 Garlic
 Tumeric
+chicken salt
+cumin
